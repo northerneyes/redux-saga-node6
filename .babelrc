@@ -1,0 +1,12 @@
+{
+  "presets": ["es2015-node6/object-rest"],
+  "plugins": [
+    "transform-react-jsx",
+    "syntax-jsx",
+    "transform-react-display-name",
+
+    "transform-class-properties",
+
+    "transform-object-rest-spread"
+  ],
+}
